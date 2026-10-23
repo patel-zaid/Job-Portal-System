@@ -1,0 +1,26 @@
+# compiled output and temporary files
+out/
+out_test/
+*.class
+*.part
+*.log
+
+# SQLite temporary files (the database file data/job_portal.db itself is NOT ignored,
+# so it can be committed if you want to share your data; add it here to keep it private)
+*.db-journal
+*.db-wal
+*.db-shm
+
+# generated at runtime
+data/activity.log
+data/prefs_user*.ser
+data/resumes/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
