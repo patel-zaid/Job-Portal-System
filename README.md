@@ -1,7 +1,7 @@
 # Job Portal System
 
 **Subject:** Object Oriented Programming using Java (OOPJ) – B.Tech Mini Project
-**Technology:** Java 17+ · Java Swing/AWT · SQLite · JDBC (no frameworks, no web technologies, no database server)
+**Technology:** Java 17+ · Java Swing/AWT · SQLite · JDBC · Built-in REST API (no external database server or web framework required)
 
 Other documents: [`UML.md`](UML.md) (class / use case / ER diagrams) ·
 [`OOP_SYLLABUS_MAPPING_AND_VIVA.md`](OOP_SYLLABUS_MAPPING_AND_VIVA.md) (concept mapping + viva Q&A)
